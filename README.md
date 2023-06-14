@@ -16,7 +16,7 @@ User interface is developed using html,css and Bootstrap using all
 these we have made an interactive Application appearance is
 appealing as well as simple enough to directs even a naive user to the
 correct desired option.
-<br>
+<br><br>
 <img width="382" height="200" align="left" alt="image" src="https://github.com/Fatima-Malikk/Hospital-Management-System/assets/89594815/e7fa9da0-216d-4aa5-8131-8f3b106d8b22">
 <img width="382" height="200" align="right" alt="image" src="https://github.com/Fatima-Malikk/Hospital-Management-System/assets/89594815/fdc87187-3c5f-44e2-9ee6-6d5282cef8b8">
 <br><br><br><br><br><br><br><br><br>
